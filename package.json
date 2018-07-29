@@ -1,7 +1,7 @@
 {
   "name": "git-test",
   "version": "1.0.0",
-  "description": "LearnGit and Node",
+  "description": "Learn Git and Node",
   "main": "index.html",
   "scripts": {
   	"start":"npm run lite",
